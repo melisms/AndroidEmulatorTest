@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="68.119" tests="1" skipped="0" failures="0" errors="0">
+<testcase classname="Puzzle_Yapboz_Menusu" name="Swipe Testi" time="67.526">
+<system-out><![CDATA[
+Given Kitap Yurdu sitesine gidildi..........................................passed
+Then Kitap Yurdu sitesine gidildigi dogrulandi..............................passed
+When Kategoriler ikonu tiklandi.............................................passed
+And "Kategoriler" bolumunde oldugu dogrulandi...............................passed
+Then "Puzzle Yapboz" menusu tiklandi........................................passed
+And "Puzzle Yapboz" bolumunde oldugu dogrulandi.............................passed
+Given "Ahşap Puzzle" menusu tiklandi........................................passed
+When "Ahşap Puzzle" bolumunde oldugu dogrulandi.............................passed
+Then "1.000 Parça Ahşap Puzzle" menusu tiklandi.............................passed
+And "1.000 Parça Ahşap Puzzle" bolumunde oldugu dogrulandi..................passed
+Then "Türk Sanatı Serisi" menusu tiklandi...................................passed
+And "Türk Sanatı Serisi" bolumunde oldugu dogrulandi........................passed
+And Urunu tikladi...........................................................passed
+And Urunu swipe yapti.......................................................passed
+]]></system-out>
+</testcase>
+</testsuite>
